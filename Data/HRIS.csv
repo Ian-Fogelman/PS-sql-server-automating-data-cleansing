@@ -3,11 +3,11 @@ employee_id,first_name,last_name,gender,date_of_birth,position,department,locati
 1002,Sarah,Johnson,Female,9/28/1990,Senior Analyst,Finance,Chicago,40862 Mallard Terrace,18th Floor,80000,sarah.johnson@example.com,354-85-4638,¡™£¢∞§¶•ªº–≠,228.142.103.150
 1003,Michael,Williams,Male,11/10/1982,Software Engineer,IT,San Francisco,086 Dahle Lane,Suite 93,90000,michael.williams@example.com,449-68-9971,🐵 🙈 🙉 🙊,63.71.219.214
 1004,Emily,Brown,Female,6/3/1992,Marketing Specialist,Marketing,Miami,6 Claremont Alley,Room 638,70000,emily.brown@example.com,416-02-4756,stanman0,956.96.65.233
-1005,Robert,Jones,Male,8/22/1988,Operations Manager,Operations,Dallas,7 Jay Street,20th Floor,100000,robert.jones@example.com,254-55-7833,bingliby1,924.941.935.989
+1005,Robert,Jones,Male,8/22/1988,Operations Manager,Operations,Dallas,7 Jay Street,20th Floor,100000,robert.jones@example.com,25455-7833,bingliby1,924.941.935.989
 1006,Olivia,Taylor,Female,7/12/1991,HR Generalist,Human Resources,New York,676 Erie Street,Apt 25,75000,olivia.taylor@example.com,701-38-9555,tconfort2,925.29.74.190
-1007,David,Miller,Male,4/18/1984,Financial Analyst,Finance,Chicago,93 Laurel Hill,Suite 38,85000,david.miller@example.com,639-68-1686,ncobden3,43.28.205.192
-1008,Sophia,Anderson,Female,2/9/1987,Database Administrator,IT,San Francisco,54167 Little Fleur Trail,Apt 1781,95000,sophia.anderson@example.com,106-30-8304,kvasiliev4,119.191.216.134
-1009,James,Thomas,Male,5/25/1993,Graphic Designer,Marketing,Miami,68 Ridgeview Hill,Apt 1248,60000,james.thomas@example.com,135-58-0928,steece5,196.158.42.230
+1007,David,Miller,Male,4/18/1984,Financial Analyst,Finance,Chicago,93 Laurel Hill,Suite 38,85000,david.miller@example.com,639681686,ncobden3,43.28.205.192
+1008,Sophia,Anderson,Female,2/9/1987,Database Administrator,IT,San Francisco,54167 Little Fleur Trail,Apt 1781,95000,sophia.anderson@example.com,106308304,kvasiliev4,119.191.216.134
+1009,James,Thomas,Male,5/25/1993,Graphic Designer,Marketing,Miami,68 Ridgeview Hill,Apt 1248,60000,james.thomas@example.com,135580928,steece5,196.158.42.230
 1010,Emma,Robinson,Female,10/7/1989,Supply Chain Manager,Operations,Dallas,57088 Randy Parkway,Room 880,110000,emma.robinson@example.com,835-06-1645,lcrocker6,180.190.84.39
 1011,William,Clark,Male,12/1/1986,HR Coordinator,Human Resources,New York,0 Eagan Terrace,Apt 1787,55000,william.clark@example.com,819-33-5718,cpeiser7,235.113.76.171
 1012,Isabella,Hill,Female,1/14/1994,Software Developer,IT,San Francisco,1 Ilene Road,16th Floor,85000,isabella.hill@example.com,565-04-9622,mganning8,156.222.219.226
