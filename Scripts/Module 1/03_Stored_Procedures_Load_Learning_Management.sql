@@ -21,7 +21,7 @@ CREATE TABLE Learning_Management
 )
 
 BULK INSERT [PS_AUTOMATING_DATA_CLEANSING].[dbo].[Learning_Management]
-FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\Learning_Management.csv' -- full C:/ Path
+FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\Learning_Management.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',

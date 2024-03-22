@@ -25,7 +25,7 @@ CREATE TABLE Employee_Absence
 )
 
 BULK INSERT [PS_AUTOMATING_DATA_CLEANSING].[dbo].[Employee_Absence]
-FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\Employee_Absence.csv' -- full C:/ Path
+FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\Employee_Absence.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',

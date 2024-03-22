@@ -30,7 +30,7 @@ CREATE TABLE HRIS
 )
 
 BULK INSERT [PS_AUTOMATING_DATA_CLEANSING].[dbo].[HRIS]
-FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\HRIS.csv' -- full C:/ Path
+FROM 'C:\PluralSight\Courses\Automating Data Cleansing in SQL Server\Data\HRIS.csv'
 WITH (
 	FIELDTERMINATOR = ',',
 	ROWTERMINATOR = '\n',
