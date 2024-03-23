@@ -30,8 +30,8 @@ SELECT
 [Age],
 [Length_Of_Service] , 
 [Hours_Absent],
-FORMAT ([Last_Absent_Date], 'MM-dd-yyyy') as date,
-FORMAT ([Hire_Date], 'MM-dd-yyyy') as date
+FORMAT ([Last_Absent_Date], 'MM-dd-yyyy') as [Last_Absent_Date],
+FORMAT ([Hire_Date], 'MM-dd-yyyy') as [Hire_Date]
 FROM [PS_AUTOMATING_DATA_CLEANSING].[dbo].[Employee_Absence]
 		
 --SOLUTION 2
