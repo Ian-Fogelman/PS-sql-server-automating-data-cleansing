@@ -36,6 +36,9 @@ AS
 
 BEGIN
 
+IF OBJECT_ID(N'dbo.Learning_Management_Cleaned', N'U') IS NOT NULL  
+   DROP TABLE Learning_Management_Cleaned;  
+
 SELECT 
 LM.[Employee_Number], 
 CASE WHEN LM.[Employee_Name] IS NULL THEN HR.FIRST_NAME + ' ' + HR.LAST_NAME ELSE LM.[Employee_Name] END AS [Employee_Name], 
